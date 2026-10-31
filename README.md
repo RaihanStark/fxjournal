@@ -1,4 +1,4 @@
-# Trade Journal
+# fxjournal
 
 A self-hosted trading journal and analytics web platform to track trades, manage multiple accounts, and analyze risk metrics.
 
@@ -19,8 +19,8 @@ Deploy the entire stack with Docker Compose:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/RaihanStark/trade-journal.git
-cd trade-journal
+git clone https://github.com/RaihanStark/fxjournal.git
+cd fxjournal
 
 # 2. Set up environment variables
 cp .env.example .env
